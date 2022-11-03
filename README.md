@@ -7,7 +7,7 @@
 # Развертка проекта
 
 ```bash
-git clone https://github.com/y0gurt-dv/api_yamdb.git
+git clone git@github.com:Calyps0l/api_yamdb.git
 ```
 
 ```bash
